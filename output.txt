@@ -1,12 +1,12 @@
 Enter number of members in family - 5
 Enter name of family member along with their age
 Enter The Details of member - Grandfather 52
-Enter The Details of member - Grandfather 50
+Enter The Details of member - Grandmother 50
 Enter The Details of member - Father 36
 Enter The Details of member - Mother 34
 Enter The Details of member - Son 18
 Grandfather 52
-Grandfather 50
+Grandmother 50
 Father 36
 Mother 34
 Son 18
